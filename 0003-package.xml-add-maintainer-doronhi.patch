@@ -1,4 +1,4 @@
-From 5431b1254c09b08d8dc08aa5b0b28509a2db07d9 Mon Sep 17 00:00:00 2001
+From 7e79c54273ed048b65bc0336e58f21afc62dcc5f Mon Sep 17 00:00:00 2001
 From: doronhi <doron_hirshberg@hotmail.com>
 Date: Mon, 5 Oct 2020 08:49:08 +0300
 Subject: [PATCH 3/3] package.xml: add maintainer:doronhi
